@@ -1,3 +1,3 @@
 # Inaugural-project
 
-Group members: Lucas Koldkjær Billot % Georg von der Wense
+Group members: Lucas Koldkjær Billot & Georg von der Wense
